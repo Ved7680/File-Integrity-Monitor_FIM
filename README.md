@@ -268,7 +268,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, suggestions, or issues:
 - Open an issue on GitHub
-- Email: your.email@example.com
+- Email: learnpro1510@gmail.com
 
 ## 🗺️ Roadmap
 
